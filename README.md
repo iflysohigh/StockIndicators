@@ -1,4 +1,6 @@
-# StockIndicators
+## NOTE: StockIndicators is currently broken due to yfinance being depreciated.
+
+# StockIndicators (Broken)
 Replication of stock indicators used in day-to-day trading on a 5-minute candlestick chart. Includes Heikin Ashi trends, VWAP calculations, and SuperTrend bullish &amp; bearish turns, 
 
 The intention of this program is to emulate stock indicators as a side project. With a primary goal of breaking into quant trading and research, I have honed my skills by manually creating stock indicators such as these. By creating these types of programs, I hope to learn more about coding financially relevant projects. My end-goal is to utilize AI (ChatGPT and others) to allow everyday people like myself to achieve financial freedom. 
